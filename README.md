@@ -31,6 +31,6 @@ $ grunt serve
 
 ## Despliegue
 
-Idealmente, tu querrías desplegar la presentación en un sitio web público para que pudiera visualizar todo el mundo la presentación. Tu puedes usar el [Hosting de Firebase](https://www.firebase.com/docs/hosting/) para desplegar la presentación de forma grauita.
+Lo ideal sería desplegar la presentación en un sitio web público para que cualquier persona la pudiera ver. Puedes usar el [Hosting de Firebase](https://www.firebase.com/docs/hosting/) para desplegar la presentación de forma grauita.
 
-Tu puedes ver la presentación en local accediendo a [http://localhost:8000](http://localhost:8000).
+Sino, puedes ver la presentación en local accediendo a [http://localhost:8000](http://localhost:8000).
