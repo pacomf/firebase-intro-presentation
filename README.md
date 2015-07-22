@@ -1,9 +1,9 @@
 # Introducción a Firebase en Español
 
-Estas diapositivas puedes ser personalizadas para dar una charla introductoria a Firebase. La presentación está
+Estas diapositivas pueden ser personalizadas para dar una charla introductoria a Firebase. La presentación está
 hecha con [reveal.js](http://lab.hakim.se/reveal-js), un fantástico e increíble framework para crear presentaciones HTML.
 
-### [Ver la Presentación - https://crackling-fire-6272.firebaseapp.com/](https://crackling-fire-6272.firebaseapp.com/)
+### [Ver la Presentación](https://crackling-fire-6272.firebaseapp.com/)
 
 ## Setup
 
