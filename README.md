@@ -1,47 +1,36 @@
-# Intro to Firebase
+# Introducción a Firebase en Español
 
-This slide deck can be customized to give an introductory talk about Firebase. It is powered by [reveal.js](http://lab.hakim.se/reveal-js), a wonderful and powerful framework for creating HTML presentations.
+Estas diapositivas puedes ser personalizadas para dar una charla introductoria a Firebase. La presentación está
+hecha con [reveal.js](http://lab.hakim.se/reveal-js), un fantástico e increíble framework para crear presentaciones HTML.
 
-### [Boilerplate Site - https://intro-to-firebase.firebaseapp.com/](https://intro-to-firebase.firebaseapp.com/)
-
-## Presentations
-
-Here are some past presentations made with this desk:
-
-| Presenter | Event | Date | Contact |
-| --------- | ----- | ---- | ------- |
-| Mike Koss | [Seattle GDG](https://plus.sandbox.google.com/events/cp5b162fccbtrk4l3ah2blb5je8) | April 20, 2015 | koss@firebase.com |
-| Jacob Wenger | GDG Leads Summit | May 27, 2015 | jacob@firebase.com |
-
-If you end up using this deck, please let us know so we can share the presentation here!
+### [Ver la Presentación - https://crackling-fire-6272.firebaseapp.com/](https://crackling-fire-6272.firebaseapp.com/)
 
 ## Setup
 
-This repo uses npm and Grunt to install dependencies, build the deck, run tests, and run a local web
-server for the content. To get started, run the following commands:
+Este repositorio usa npm y Grunt para instalar las dependencias necesarias, construir la presentación, ejecutar los tests y lanzar el contenido en un servidor web local. Para empezar, ejecuta los siguientes comandos:
 
 ```bash
 $ git clone git@github.com:firebase/firebase-intro-presentation.git
-$ cd firebase-intro-presentation         # go to the firebase-intro directory
-$ npm install -g grunt-cli               # globally install grunt task runner
-$ npm install                            # install local npm build / test dependencies
-$ bower install                          # uses bower for polymer dependency
+$ cd firebase-intro-presentation         # para acceder al directorio de firebase-intro
+$ npm install -g grunt-cli               # para instalar grunt task runner
+$ npm install                            # para instalar las dependencias
+$ bower install                          # para instalar la dependencia de polymer
 ```
 
-To build the slide deck and run the test suite:
+Para crear la presentación y ejecutar los tests:
 
 ```bash
 $ grunt
 ```
 
-To open the slide deck using a local web server:
+Para ejecutar la presentación usando un servidor web local:
 
 ```bash
 $ grunt serve
 ```
 
-## Deploy
+## Despliegue
 
-Ideally, you'll want to run this on a public website for viewers to see after the presentation. You can use [Firebase Hosting](https://www.firebase.com/docs/hosting/) to deploy this presentation for free!
+Idealmente, tu querrías desplegar la presentación en un sitio web público para que pudiera visualizar todo el mundo la presentación. Tu puedes usar el [Hosting de Firebase](https://www.firebase.com/docs/hosting/) para desplegar la presentación de forma grauita.
 
-You can then view the slide deck at [http://localhost:8000](http://localhost:8000).
+Tu puedes ver la presentación en local accediendo a [http://localhost:8000](http://localhost:8000).
